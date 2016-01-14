@@ -34,7 +34,6 @@ Week 1 - Introduction - 1/27/16
 * Randomness, Probability, and Perlin Noise
     * [Nature of Code Introduction](http://natureofcode.com/book/introduction/)
     * [Videos I.1 - I.5](http://video.natureofcode.com/i.1/)
-    * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/introduction)
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/introduction)
 * Object Oriented Programming Review & Vectors
     * [Nature of Code Chapter 1](http://natureofcode.com/book/chapter-1-vectors/)
@@ -53,7 +52,6 @@ Week 2 - Forces - 2/3/16
 ------------------------
 * [Nature of Code Chapter 2: Forces](http://natureofcode.com/book/chapter-2-forces/)
 * [Videos 2.1 - 2.6](http://video.natureofcode.com/2.1/)
-* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp2_forces)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp02_forces)
 * [Assignment](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Week-2-Assignment)
 * Supplemental Reading
@@ -65,7 +63,6 @@ Week 3 - Oscillation - 2/10/16
 -------------------------------
 * [Nature of Code Chapter 3: Oscillation](http://natureofcode.com/book/chapter-3-oscillation/)
 * [Videos 3.1 - 3.5](http://video.natureofcode.com/3.1/)
-* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp3_oscillation)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp03_oscillation)
 * [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
 * [Demo of Oscillating Movement and Sine Wave](https://www.youtube.com/watch?v=PhvJcVDuJsY#t=55)
@@ -79,7 +76,6 @@ Week 4 - Systems - 2/17/16
 -------------------------------
 * [Nature of Code Chapter 4: Particle Systems](http://natureofcode.com/book/chapter-4-particle-systems/)
 * [Videos 4.1 - 4.9](http://video.natureofcode.com/4.1/)
-* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp4_systems)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp04_systems)
 * [Assignment](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Week-4-Assignment)
 * Supplemental Reading
@@ -96,9 +92,8 @@ Week 4 - Systems - 2/17/16
 Week 5 - Autonomous Agents - 2/24/16
 -----------------------------------
 * [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
-* [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp6_agents)
 * [Videos 6.1 - 6.8](http://video.natureofcode.com/6.1/)
-* p5.js examples coming soon
+* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
 * Related
     * [Reas Process Compendium](https://vimeo.com/22955812)
     * [Braitenberg Vehicles](http://books.google.com/books/?id=7KkUAT_q_sQC)
@@ -115,11 +110,9 @@ Special Session - Physics Libraries - ???
     * [JBox2D web site](http://www.jbox2d.org/)
     * [PBox2D github repo](https://github.com/shiffman/PBox2D)
     * [Videos 5.1 - 5.9](http://video.natureofcode.com/5.1/)
-    * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/box2d)
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp05_libraries/box2dweb)
 * Toxiclibs
     * [Videos 5.13 - 5.16](http://video.natureofcode.com/5.1/)
-    * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/toxiclibs)
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp05_libraries/toxiclibs)
     * [ToxicLibs](http://toxiclibs.org/)
     * [The Making of Nokia Friends](https://vimeo.com/1472427)
@@ -143,7 +136,6 @@ Week 8 - Cellular Automata / Fractals - 3/23/16
 -----------------------------------------------
 * Cellular Automata
     * [Nature of Code Chapter 7](http://natureofcode.com/book/chapter-7-cellular-automata/)
-    * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp7_CA)
     * [Videos 7.1 - 7.4](http://video.natureofcode.com/7.1/)
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp07_CA)
     * [A New Kind of Science](http://www.wolframscience.com/nksonline/toc.html)
@@ -154,7 +146,6 @@ Week 8 - Cellular Automata / Fractals - 3/23/16
     * [Understanding Segregation Through a Simulation](http://flowingdata.com/2014/12/09/understanding-segregation-with-a-simulation/)
 * Fractals
    * [Nature of Code Chapter 8](http://natureofcode.com/book/chapter-8-fractals/)
-   * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp8_fractals)
    * [Videos 8.1 - 8.5](http://video.natureofcode.com/8.1/)
    * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp08_fractals)
    * [PBS Nova - Fractals - Hunting the Hidden Dimension](http://www.pbs.org/wgbh/nova/physics/hunting-hidden-dimension.html)
@@ -170,7 +161,6 @@ Week 8 - Cellular Automata / Fractals - 3/23/16
 Week 9 - Genetic Algorithms / Final Project Proposals - 3/30/16
 --------------------------------------------------------------
 * [Nature of Code Chapter 9](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
-* [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp9_ga)
 * [GA Presentation @ Kickstarter](http://video.natureofcode.com/9.1/)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
 * References
@@ -180,15 +170,10 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 3/30/16
     * [Evolved Virtual Creatures](http://www.karlsims.com/evolved-virtual-creatures.html)
     * [Digital Babylon NOC 2005](http://joan.cat/en/dbn/)
 * Assignment: 
-   * Reading for Chapter 10: [Neural Networks](http://natureofcode.com/book/chapter-10-neural-networks/) 
    * [Final Project Proposal Guidelines](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Final-Project-Presentation-Guidelines)
 
-Week 10 - Neural Networks / Final Project Proposals - 4/6/16
+Week 10 - Final Project Proposals - 4/6/16
 ---------------------------------------------------------------
-* [Nature of Code Chapter 10](http://natureofcode.com/book/chapter-10-neural-networks/)
-* [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp10_nn)
-* Additional
-   * [K-Means Clustering](https://www.youtube.com/watch?v=aiJ8II94qck)
 * Assignment: Prepare for User Testing session next week.
 
 Week 11 - User Testing Week - 4/13/16
