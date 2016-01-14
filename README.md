@@ -33,11 +33,11 @@ Week 1 - Introduction - 1/27/16
 * [Processing](http://www.processing.org) review
 * Randomness, Probability, and Perlin Noise
     * [Nature of Code Introduction](http://natureofcode.com/book/introduction/)
-    * [Videos I.1 - I.5](http://video.natureofcode.com/i.1/)
+    * Videos I.1 - I.5
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/introduction)
 * Object Oriented Programming Review & Vectors
     * [Nature of Code Chapter 1](http://natureofcode.com/book/chapter-1-vectors/)
-    * [Videos 1.1 - 1.6](http://video.natureofcode.com/1.1/)
+    * Videos 1.1 - 1.6
     * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp1_vectors)
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp01_vectors)
 * Assignment
@@ -51,7 +51,7 @@ Week 1 - Introduction - 1/27/16
 Week 2 - Forces - 2/3/16
 ------------------------
 * [Nature of Code Chapter 2: Forces](http://natureofcode.com/book/chapter-2-forces/)
-* [Videos 2.1 - 2.6](http://video.natureofcode.com/2.1/)
+* Videos 2.1 - 2.6
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp02_forces)
 * [Assignment](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Week-2-Assignment)
 * Supplemental Reading
@@ -62,7 +62,7 @@ Week 2 - Forces - 2/3/16
 Week 3 - Oscillation - 2/10/16
 -------------------------------
 * [Nature of Code Chapter 3: Oscillation](http://natureofcode.com/book/chapter-3-oscillation/)
-* [Videos 3.1 - 3.5](http://video.natureofcode.com/3.1/)
+* Videos 3.1 - 3.5
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp03_oscillation)
 * [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
 * [Demo of Oscillating Movement and Sine Wave](https://www.youtube.com/watch?v=PhvJcVDuJsY#t=55)
@@ -75,7 +75,7 @@ Week 3 - Oscillation - 2/10/16
 Week 4 - Systems - 2/17/16
 -------------------------------
 * [Nature of Code Chapter 4: Particle Systems](http://natureofcode.com/book/chapter-4-particle-systems/)
-* [Videos 4.1 - 4.9](http://video.natureofcode.com/4.1/)
+* Videos 4.1 - 4.9
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp04_systems)
 * [Assignment](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Week-4-Assignment)
 * Supplemental Reading
@@ -92,7 +92,7 @@ Week 4 - Systems - 2/17/16
 Week 5 - Autonomous Agents - 2/24/16
 -----------------------------------
 * [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
-* [Videos 6.1 - 6.8](http://video.natureofcode.com/6.1/)
+* Videos 6.1 - 6.8
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
 * Related
     * [Reas Process Compendium](https://vimeo.com/22955812)
@@ -109,10 +109,10 @@ Special Session - Physics Libraries - ???
     * [Box2D web site](http://box2d.org/)
     * [JBox2D web site](http://www.jbox2d.org/)
     * [PBox2D github repo](https://github.com/shiffman/PBox2D)
-    * [Videos 5.1 - 5.9](http://video.natureofcode.com/5.1/)
+    * Videos 5.1 - 5.9
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp05_libraries/box2dweb)
 * Toxiclibs
-    * [Videos 5.13 - 5.16](http://video.natureofcode.com/5.1/)
+    * Videos 5.13 - 5.16
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp05_libraries/toxiclibs)
     * [ToxicLibs](http://toxiclibs.org/)
     * [The Making of Nokia Friends](https://vimeo.com/1472427)
@@ -137,7 +137,7 @@ Week 8 - Cellular Automata / Fractals - 3/23/16
 -----------------------------------------------
 * Cellular Automata
     * [Nature of Code Chapter 7](http://natureofcode.com/book/chapter-7-cellular-automata/)
-    * [Videos 7.1 - 7.4](http://video.natureofcode.com/7.1/)
+    * Videos 7.1 - 7.4
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp07_CA)
     * [A New Kind of Science](http://www.wolframscience.com/nksonline/toc.html)
     * [Elementary Cellular Automaton](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
@@ -147,7 +147,7 @@ Week 8 - Cellular Automata / Fractals - 3/23/16
     * [Understanding Segregation Through a Simulation](http://flowingdata.com/2014/12/09/understanding-segregation-with-a-simulation/)
 * Fractals
    * [Nature of Code Chapter 8](http://natureofcode.com/book/chapter-8-fractals/)
-   * [Videos 8.1 - 8.5](http://video.natureofcode.com/8.1/)
+   * Videos 8.1 - 8.5
    * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp08_fractals)
    * [PBS Nova - Fractals - Hunting the Hidden Dimension](http://www.pbs.org/wgbh/nova/physics/hunting-hidden-dimension.html)
    * [Fractal Geometry of Nature](http://en.wikipedia.org/wiki/The_Fractal_Geometry_of_Nature)
