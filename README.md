@@ -39,7 +39,7 @@ Week 1 - Introduction - 1/27/16
     * [Nature of Code Chapter 1](http://natureofcode.com/book/chapter-1-vectors/)
     * [Videos 1.1 - 1.6](http://video.natureofcode.com/1.1/)
     * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp1_vectors)
-    * p5.js examples coming soon
+    * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp01_vectors)
 * Assignment
     * [Sign up for class mailing list](https://groups.google.com/a/itp.nyu.edu/forum/#!forum/natureofcode)
     * [Assignment](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Week-1-Assignment).
