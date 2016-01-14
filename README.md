@@ -43,7 +43,7 @@ Week 1 - Introduction - 1/27/16
     * p5.js examples coming soon
 * Assignment
     * [Sign up for class mailing list](https://groups.google.com/a/itp.nyu.edu/forum/#!forum/natureofcode)
-    * [Assignment](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Week-1-Assignment).
+    * [Assignment](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Week-1-Assignment).
  * Supplemental Reading
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/) Chapter 5
     * [Computational Beauty of Nature](http://www.amazon.com/gp/product/0262561271/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262561271&linkCode=as2&tag=natureofcode-20), Introduction
@@ -55,7 +55,7 @@ Week 2 - Forces - 2/3/16
 * [Videos 2.1 - 2.6](http://video.natureofcode.com/2.1/)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp2_forces)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp02_forces)
-* [Assignment](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Week-2-Assignment)
+* [Assignment](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Week-2-Assignment)
 * Supplemental Reading
     * [Newtonian Physics, An Online Textbook](http://www.lightandmatter.com/area1book1.html) (This is long, you may find Chapter 4 to be particularly relevant to this week's discussion.)
     * [The Physics Classroom -- Newton's Laws](http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html)
@@ -70,7 +70,7 @@ Week 3 - Oscillation - 2/10/16
 * [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
 * [Demo of Oscillating Movement and Sine Wave](https://www.youtube.com/watch?v=PhvJcVDuJsY#t=55)
 * [Demo of Conservation of Energy using a Pendulum](https://www.youtube.com/watch?v=4a0FbQdH3dY#t=1465)
-* [Assignment](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Week-3-Assignment)
+* [Assignment](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Week-3-Assignment)
 * Supplemental reading
     * [Trigonometry, What is it good for?](http://www.phy6.org/stargaze/Strig1.htm)
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapter 4
@@ -81,7 +81,7 @@ Week 4 - Systems - 2/17/16
 * [Videos 4.1 - 4.9](http://video.natureofcode.com/4.1/)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp4_systems)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp04_systems)
-* [Assignment](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Week-4-Assignment)
+* [Assignment](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Week-4-Assignment)
 * Supplemental Reading
     * ["Particle animation and rendering using data parallel computation", Karl Sims](http://doi.acm.org/10.1145/97879.97923) (available via NYU network/proxy)
     * ["Particle Systems, a Technique for Modeling a Class of Fuzzy Objects", Reeves](http://doi.acm.org/10.1145/357318.357320) (available via NYU network/proxy)
@@ -105,7 +105,7 @@ Week 5 - Autonomous Agents - 2/24/16
     * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
     * [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
     * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
-* [Assignment](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Week-5-Assignment)
+* [Assignment](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Week-5-Assignment)
 
 Special Session - Physics Libraries - ???
 ------------------------------------------------------
@@ -132,11 +132,10 @@ Special Session - Physics Libraries - ???
 Week 6 - Frankenstein Sketches - 3/2/15
 ------------------------------------------------------
 * Workshopping Complex Programs
-* Assignment: [Mid-term](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Midterm-Assignment)
+* Assignment: [Mid-term](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Midterm-Assignment)
 
 Week 7 - Mid-Semester Project Presentations - 3/9/16
 -----------------------------------------------------
-* [Documentation Links and Presentation Order](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Midterm)
 
 ### No class, 3/16/15, Spring Break
 
@@ -166,7 +165,7 @@ Week 8 - Cellular Automata / Fractals - 3/23/16
    * [L-Systems in Computational Beauty of Nature](http://books.google.com/books?id=0aUhuv7fjxMC&pg=PA78)
 *  Assignment: 
    * [Reading](http://natureofcode.com/book/chapter-9-the-evolution-of-code/) and [Video](http://video.natureofcode.com/) for Chapter 9: The Evolution of Code
-   *  [Final Project Proposal Guidelines](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Final-Project-Presentation-Guidelines).
+   *  [Final Project Proposal Guidelines](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Final-Project-Presentation-Guidelines).
 
 Week 9 - Genetic Algorithms / Final Project Proposals - 3/30/16
 --------------------------------------------------------------
@@ -182,7 +181,7 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 3/30/16
     * [Digital Babylon NOC 2005](http://joan.cat/en/dbn/)
 * Assignment: 
    * Reading for Chapter 10: [Neural Networks](http://natureofcode.com/book/chapter-10-neural-networks/) 
-   * [Final Project Proposal Guidelines](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Final-Project-Presentation-Guidelines)
+   * [Final Project Proposal Guidelines](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Final-Project-Presentation-Guidelines)
 
 Week 10 - Neural Networks / Final Project Proposals - 4/6/16
 ---------------------------------------------------------------
@@ -198,7 +197,7 @@ Week 11 - User Testing Week - 4/13/16
 
 Week 12 - Final Project Presentations - 4/20/16
 -----------------------------------------------
-* [Presentation Guidelines](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Final-Project-Presentation-Guidelines)
+* [Presentation Guidelines](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Final-Project-Presentation-Guidelines)
 * Presentation Schedule and Guidelines TBA
 
 
