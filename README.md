@@ -119,6 +119,7 @@ Special Session - Physics Libraries - ???
     * [Advanced Character Physics](http://www.gamasutra.com/resource_guide/20030121/jacobson_pfv.htm)
 * Bullet
     * [bRigid Processing Library](http://www.lab-eds.org/bRigid)
+    * [ammo.js Javascript port](https://github.com/kripken/ammo.js/)
     * [simple 3d box demo](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/bRigid_jBullet)
 * Other libraries?
 
