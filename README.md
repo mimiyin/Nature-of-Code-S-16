@@ -164,6 +164,7 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 3/30/16
 * [Nature of Code Chapter 9](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
 * [GA Presentation @ Kickstarter](http://video.natureofcode.com/9.1/)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
+* [Wasps, Viruses and New Modes of Evolution](http://www.sciencemag.org/news/2015/09/wasps-have-injected-new-genes-butterflies)
 * References
     * [Ann Chen & Danne Woo - Galapagos Evolutionary Type Design NOC 2012](http://www.typegalapagos.com/)
     * [Flexible Muscle-Based Locomotion for Bipedal Creatures](https://vimeo.com/79098420)
