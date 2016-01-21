@@ -102,6 +102,14 @@ Week 5 - Autonomous Agents - 2/24/16
     * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
 * [Assignment](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Week-5-Assignment)
 
+Week 6 - Frankenstein Sketches - 3/2/15
+------------------------------------------------------
+* Workshopping Complex Programs
+* Assignment: [Mid-term](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Midterm-Assignment)
+
+Week 7 - Mid-Semester Project Presentations - 3/9/16
+-----------------------------------------------------
+
 Special Session - Physics Libraries - ???
 ------------------------------------------------------
 * [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
@@ -122,14 +130,6 @@ Special Session - Physics Libraries - ???
     * [ammo.js Javascript port](https://github.com/kripken/ammo.js/)
     * [simple 3d box demo](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/bRigid_jBullet)
 * Other libraries?
-
-Week 6 - Frankenstein Sketches - 3/2/15
-------------------------------------------------------
-* Workshopping Complex Programs
-* Assignment: [Mid-term](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Midterm-Assignment)
-
-Week 7 - Mid-Semester Project Presentations - 3/9/16
------------------------------------------------------
 
 ### No class, 3/16/15, Spring Break
 
