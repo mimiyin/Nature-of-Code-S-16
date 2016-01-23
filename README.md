@@ -85,10 +85,6 @@ Week 4 - Systems - 2/17/16
     * [Particle System API, by David K. McAllister](http://www.siggraph.org/education/materials/HyperGraph/animation/particle.htm)
     * [Particle Systems by Allen Martin](http://web.cs.wpi.edu/~matt/courses/cs563/talks/psys.html)
 
-[Mark Stock](http://markjstock.com/) - Thursday 2/26/15 in Room 50
-------------------------------------------------------------------
-* [Presentation of Work]((http://markjstock.com/)) and Technical Workshop
-
 Week 5 - Autonomous Agents - 2/24/16
 -----------------------------------
 * [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
