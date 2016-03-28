@@ -103,8 +103,6 @@ Week 6 - Frankenstein Sketches - 3/2/15
 * Workshopping Complex Programs
 * Assignment: [Mid-term](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Midterm-Assignment)
 
-Week 7 - Mid-Semester Project Presentations - 3/9/16
------------------------------------------------------
 
 Special Session - Physics Libraries - ???
 ------------------------------------------------------
@@ -129,7 +127,10 @@ Special Session - Physics Libraries - ???
 
 ### No class, 3/16/15, Spring Break
 
-Week 8 - Cellular Automata / Fractals - 3/23/16
+Week 7 - Mid-Semester Project Presentations - 3/13/16
+-----------------------------------------------------
+
+Week 8 - Cellular Automata / Fractals - 3/30/16
 -----------------------------------------------
 * Cellular Automata
     * [Nature of Code Chapter 7](http://natureofcode.com/book/chapter-7-cellular-automata/)
@@ -155,7 +156,7 @@ Week 8 - Cellular Automata / Fractals - 3/23/16
    * [Reading](http://natureofcode.com/book/chapter-9-the-evolution-of-code/) and [Video](http://video.natureofcode.com/) for Chapter 9: The Evolution of Code
    *  [Final Project Proposal Guidelines](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Final-Project-Presentation-Guidelines).
 
-Week 9 - Genetic Algorithms / Final Project Proposals - 3/30/16
+Week 9 - Genetic Algorithms - 4/06/16
 --------------------------------------------------------------
 * [Nature of Code Chapter 9](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
 * [GA Presentation @ Kickstarter](http://video.natureofcode.com/9.1/)
@@ -170,15 +171,15 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 3/30/16
 * Assignment: 
    * [Final Project Proposal Guidelines](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Final-Project-Presentation-Guidelines)
 
-Week 10 - Final Project Proposals - 4/6/16
+Week 10 - Neural Networks / Final Project Proposals - 4/13/16
 ---------------------------------------------------------------
 * Assignment: Prepare for User Testing session next week.
 
-Week 11 - User Testing Week - 4/13/16
+Week 11 - User Testing Week - 4/20/16
 -------------------------------------
 * This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
 
-Week 12 - Final Project Presentations - 4/20/16
+Week 12 - Final Project Presentations - 4/27/16
 -----------------------------------------------
 * [Presentation Guidelines](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Final-Project-Presentation-Guidelines)
 * Presentation Schedule and Guidelines TBA
