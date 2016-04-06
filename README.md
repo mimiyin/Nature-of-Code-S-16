@@ -162,6 +162,8 @@ Week 9 - Genetic Algorithms - 4/06/16
 * [GA Presentation @ Kickstarter](http://video.natureofcode.com/9.1/)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
 * [Wasps, Viruses and New Modes of Evolution](http://www.sciencemag.org/news/2015/09/wasps-have-injected-new-genes-butterflies)
+* [2 People in 1](http://www.radiolab.org/story/91597-mix-and-match/)
+* [The Sports Gene](http://www.nytimes.com/2013/08/13/science/the-sports-gene-considers-the-root-of-athletic-success.html)
 * References
     * [Ann Chen & Danne Woo - Galapagos Evolutionary Type Design NOC 2012](http://www.typegalapagos.com/)
     * [Flexible Muscle-Based Locomotion for Bipedal Creatures](https://vimeo.com/79098420)
