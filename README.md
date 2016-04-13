@@ -175,6 +175,9 @@ Week 9 - Genetic Algorithms - 4/06/16
 
 Week 10 - Neural Networks / Final Project Proposals - 4/13/16
 ---------------------------------------------------------------
+* [10 Misconceptions About Neural Networks](http://www.turingfinance.com/misconceptions-about-neural-networks/)
+* [How XOR Led to Back Propagation](http://mnemstudio.org/neural-networks-multilayer-perceptrons.htm)
+* [XOR Problem Solution](http://www.mind.ilstu.edu/curriculum/artificial_neural_net/xor_problem_and_solution.php)
 * Assignment: Prepare for User Testing session next week.
 
 Week 11 - User Testing Week - 4/20/16
